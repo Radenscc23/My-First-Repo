@@ -4,4 +4,4 @@ NPM     : 2106750710
 
 Kelas   : C
 
-Hobi    : Denger musik
+Hobi    : Bacaan berat
